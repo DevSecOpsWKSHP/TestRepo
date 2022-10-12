@@ -20,4 +20,12 @@
     "url": "https://github.com/Cyber-JiuJiteria/DevSecOps_Tutorial/issues"
   },
   "homepage": "https://github.com/Cyber-JiuJiteria/DevSecOps_Tutorial#readme"
+  "dependencies": {
+    "express": "^4.0",
+    "mongoose": "^6.6.5",
+    "passport": "^0.6.0",
+    "body-parser": "^1.20.1",
+    "passport-local-mongoose": "^7.1.0",
+    "passport-local": "^1.0.0"
+  }
 }
